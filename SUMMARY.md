@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Devtron Enterprise Trial](docs/welcome.md)
+* [Welcome to Devtron Enterprise Trial](README.md)
 * [Day 1](docs/day1.md)
 * [Day 2](docs/day2.md)
 * [Day 3](docs/day3.md)
