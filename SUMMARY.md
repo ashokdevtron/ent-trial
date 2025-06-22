@@ -1,4 +1,17 @@
 # Table of contents
 
 * [README](README.md)
-* [Day 1](day-1.md)
+* [Day 1](docs/day1.md)
+* [Day 2](docs/day2.md)
+* [Day 3](docs/day3.md)
+* [Day 4](docs/day4.md)
+* [Day 5](docs/day5.md)
+* [Day 6](docs/day6.md)
+* [Day 7](docs/day7.md)
+* [Day 8](docs/day8.md)
+* [Day 9](docs/day9.md)
+* [Day 10](docs/day10.md)
+* [Day 11](docs/day11.md)
+* [Day 12](docs/day12.md)
+* [Day 13](docs/day13.md)
+* [Day 14](docs/day14.md)
